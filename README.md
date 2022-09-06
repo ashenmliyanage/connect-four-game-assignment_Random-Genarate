@@ -11,7 +11,7 @@
 * **But do not try to run or compile the application**
 * **Follow the instructions in the assignment**
 
-If you want to find out how the game looks like at the end of the step-2, check release page.
+If you want to find out how the game looks like at the end of the step-2, check [release page](https://github.com/Ranjith-Suranga/connect-four-assignment/releases/tag/v2.0.0).
 
 ### Version
 0.0.0
