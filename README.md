@@ -1,6 +1,6 @@
 # <img src="src/main/resources/asset/connect-four.png" alt="drawing" width="50"/> The Connect-4 Game Assignment
 In this assignment, you will implement the complete logic behind the "Connect 4 Game" including the artificial Intelligence part of the computer player.
-Please read the assignment carefully before proceeding. You can find the assignment [here](https://drive.google.com/file/d/1qlqLBfI3Xu0p_BXRNbRneMWtyLlakXGp/view?usp=sharing).
+Please read the assignment carefully before proceeding. You can find the assignment [here](https://drive.google.com/file/d/1sfD00n_mQAmeyLz9kp_Kzd0V4OJhAqFM/view?usp=sharing).
 In case if you have any doubts regarding the assignment please make sure to clarify them upfront.
 
 ### How to use this repo
@@ -32,8 +32,8 @@ Please contact your course instructor 😉
 If you want to find out how the game looks like at the end of each step, check out the [release page](https://github.com/Ranjith-Suranga/connect-four-game-assignment/releases) and follow the instructions there.
 
 ### Version
-0.0.5
+0.0.6
 
 ### License
-Copyright © 2022 DEP. All rights reserved <br>
+Copyright © 2023 DEP. All rights reserved <br>
 This project is licensed under the [MIT](LICENSE.txt) License.
